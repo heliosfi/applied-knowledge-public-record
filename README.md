@@ -1,1 +1,0 @@
-# applied-knowledge-public-record
