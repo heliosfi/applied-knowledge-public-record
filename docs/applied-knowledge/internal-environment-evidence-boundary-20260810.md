@@ -4,9 +4,11 @@ Status: N.B.C.-AUTHORIZED — PUBLIC APPLIED KNOWLEDGE — DOCUMENTATION ONLY
 Timestamp: 2026-08-10 07:33:44 EDT (UTC-04:00)  
 Owner-authoritative source: Nicholas B. Carty
 
-## Verified source and lineage
+## Verified prior source and current correction lineage
 
-This record is derived from exactly one owner-authoritative thesis source:
+This record preserves two distinct provenance layers. The verified prior thesis source establishes the existing Technique, attribution, correction, misplacement, authority, `WAIT`, verification, return, and `STOP` boundaries. The current N.B.C.-authorized owner correction establishes the internal-environment boundary recorded here.
+
+### Verified prior thesis source
 
 - Repository: `heliosfi/heliosfi-nicholas-b-carty`
 - Canonical branch: `main`
@@ -16,7 +18,15 @@ This record is derived from exactly one owner-authoritative thesis source:
 - Source attribution: Nicholas B. Carty, author and natural-footprint authority
 - Returned interpretation and drafting: conversational AI
 
-The thesis preserves Nicholas B. Carty's demonstrated understanding through attributable words, corrections, contrasts, and verified returns. This public record does not replace, enlarge, or reinterpret that source.
+The thesis preserves Nicholas B. Carty's demonstrated understanding through attributable words, corrections, contrasts, and verified returns. It remains the verified prior source for the established Technique and its source/interpretation, correction, misplacement, authority, `WAIT`, verification, return, and `STOP` boundaries.
+
+### Current N.B.C.-authorized owner correction
+
+N.B.C.'s explicit authorization of this bounded documentation record preserves the current owner correction concerning internal environment, dreams, externally characterized traits, mind access, diagnosis, external description, chosen intent, restoration of proven misplacement before movement, and the `ACTION | CORRECTION | WAIT` vocabulary.
+
+These current corrections are not represented as pre-existing language from the cited thesis. The thesis remains unchanged. Nicholas B. Carty remains the owner-authoritative source of the current correction and the acceptance authority for his originating intent. Conversational AI remains limited to interpretation, drafting, comparison, and returned articulation assistance.
+
+This public record does not replace, enlarge, or reinterpret the prior thesis source.
 
 ## Owner correction preserved
 
